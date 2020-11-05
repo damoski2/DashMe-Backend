@@ -10,7 +10,7 @@ var transport = {
     secure:false,
     auth:{
         user: 'akogunolayinka42@gmail.com',
-        pass: 'Covid_master19'
+        pass: '/*LOL...original hidden*/'
     },
     tls:{
         rejectUnauthorized: false
